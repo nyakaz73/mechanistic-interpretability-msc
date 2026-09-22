@@ -1,0 +1,9 @@
+# Probing transformers notebook
+torch>=2.4.0
+transformers>=4.41.0,<6.0.0
+sentence-transformers>=5.3.0
+datasets
+accelerate
+scikit-learn
+matplotlib
+pandas
